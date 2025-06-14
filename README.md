@@ -1,3 +1,17 @@
+## 👋 About Me
+
+I'm an aspiring Project Manager with a focus on renewable energy and sustainability. This portfolio demonstrates my ability to manage the full project lifecycle — from planning and budgeting to stakeholder communication and risk control — using a residential Solar PV installation as a case study.
+
+I’m passionate about the energy transition, and I enjoy turning complex project requirements into clear, executable plans. This GitHub space showcases my practical knowledge in:
+
+- 📊 Gantt chart scheduling
+- 💰 Budget estimation
+- 👥 Stakeholder analysis
+- ⚠️ Risk and issue management
+- 📡 Communication planning
+
+I'm actively looking to contribute to real-world projects in clean energy, infrastructure, or sustainability-focused initiatives.
+
 # ☀️ Solar PV Installation Project Portfolio
 
 **Role**: Assistant Project Manager  
